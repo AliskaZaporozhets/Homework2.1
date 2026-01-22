@@ -4,3 +4,4 @@ a = list (number)
 
 print (a[2])
 
+

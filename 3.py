@@ -9,3 +9,4 @@ a = int (input ("Enter a number of minutes, please: "))
 div, mod = divmod (a, 60)
 
 print ("Your period is: ", div, "hours and", mod, 'minutes.')
+
