@@ -1,7 +1,5 @@
-number = input ("Enter your number, please: ")
+a = int(input("Enter a number: "))
+last_digit = a % 10
 
-a = list (number)
-
-print (a[2])
-
+print("The last digit is: ", last_digit)
 

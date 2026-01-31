@@ -5,8 +5,7 @@
 # print ( "Your period is: ", b, "hours and", c, "minutes.")
 
 
-a = int (input ("Enter a number of minutes, please: "))
-div, mod = divmod (a, 60)
+a = int(input("Enter a number of minutes, please: "))
+div, mod = divmod(a, 60)
 
-print ("Your period is: ", div, "hours and", mod, 'minutes.')
-
+print("Your period is: ", div, "hours and", mod, 'minutes.')
